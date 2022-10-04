@@ -6,3 +6,6 @@
 - 📧 Contact me at : loic.dubouloz@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulutalu&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulutalu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
