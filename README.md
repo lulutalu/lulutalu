@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 Currently studying at 42 Lausanne.
-- 💻 Working on [ft_containers](https://github.com/lulutalu/42_ft_containers)
+- 💻 Working on [Inception](https://github.com/lulutalu/42_Inception)
 - 🤝 Find my [Linkedin profile](https://www.linkedin.com/in/lo%C3%AFc-dubouloz-1a36671b6/)
 - 📧 Contact me at : loic.dubouloz@gmail.com
 
