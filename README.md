@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🎓 Currently studying at 42 Lausanne.
-- 💻 Working on Transcendence => main repo [here](https://github.com/thetranscendenceteam/ft_transcendence)
+- 🎓 Finished Common Core at 42 Lausanne and now working towards my specialization
+- 💻 Working on scop [here](https://github.com/lulutalu/scop)
 - 🤝 Find my [Linkedin profile](https://www.linkedin.com/in/lo%C3%AFc-dubouloz-1a36671b6/)
 - 📧 Contact me at : loic.dubouloz@gmail.com
 
